@@ -1,0 +1,72 @@
+ [
+    {
+        "session": "ses1",
+        "token": "8322793994:AAGiFwNq_MksA6K77RBSZ4bEpZSOT2IhFPA",
+        "api_id": "15529802",
+        "api_hash": "92bcb6aa798a6f1feadbc917fccb54d3",
+        "workers": 8,
+        "db_uri": "mongodb+srv://CineXeonFile:CineXeonFile@cluster0.dokar6b.mongodb.net/?appName=Cluster0",
+        "db_name": "OFLIX",
+        "fsubs": [],
+        "db": -1003536384063,
+        "auto_del": 300,
+        "messages": {
+            "START": "<b>ʜᴇʟʟᴏ {first}\n\nɪ ᴀᴍ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ, ɪ ᴄᴀɴ sᴛᴏʀᴇ ᴘʀɪᴠᴀᴛᴇ ғɪʟᴇs ɪɴ sᴘᴇᴄɪғɪᴇᴅ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ᴏᴛʜᴇʀ ᴜsᴇʀs ᴄᴀɴ ᴀᴄᴄᴇss ɪᴛ ғʀᴏᴍ sᴘᴇᴄɪᴀʟ ʟɪɴᴋ.</b>",
+            "FSUB": "Hᴇʟʟᴏ Sᴇɴᴘᴀɪ {mention}\n\n<b>Yᴏᴜ Nᴇᴇᴅ Tᴏ Jᴏɪɴ Iɴ Mʏ Cʜᴀɴɴᴇʟs Tᴏ Gᴇᴛ Fɪʟᴇs</b>",
+            "ABOUT": "<b>❏ ᴍʏ ɴᴀᴍᴇ: <a href='https://t.me/CineXeonFileBot'>𝐒ᴏᴘʜɪᴇ</a>\n<blockquote expandable>❏ Dᴇᴠᴇʟᴏᴘᴇʀ: <a href='https://t.me/MrXeonTg'>ᴍʀ xᴇᴏɴ</a>\n❏ ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ: <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a>\n❏ ʟɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org'>Pʏʀᴏɢʀᴀᴍ ᴠ2</a>\n❏ ʟᴀɴɢᴜᴀɢᴇ: <a href='https://docs.python.org/3'>Pʏᴛʜᴏɴ 3</a>\n❏ ᴅᴀᴛᴀʙᴀsᴇ: <a href='https://www.mongodb.com/docs'>Mᴏɴɢᴏ ᴅʙ</a>\n❏ ʙᴏᴛ sᴇʀᴠᴇʀ: <a href='https://heroku.com'>ʜᴇʀᴏᴋᴜ</a>\n❏ ʙᴜɪʟᴅ ꜱᴛᴀᴛᴜꜱ: ᴠ5.4.1 [ᴀᴅᴠᴀɴᴄᴇ ғᴇᴀᴛᴜʀᴇs]</b></blockquote>",
+            "REPLY": "<b><blockquote>❌𝗗𝗼𝗻'𝘁 𝘀𝗲𝗻𝗱 𝗺𝗲 𝗱𝗶𝗿𝗲𝗰𝘁 𝗺𝗲𝘀𝘀𝗮𝗴𝗲𝘀 𝗶𝗻 𝗱𝗺, 𝗱𝗼 𝘆𝗼𝘂 𝗵𝗮𝘃𝗲 𝗮 𝗱𝗲𝗮𝘁𝗵 𝘄𝗶𝘀𝗵?</blockquote></b>",
+            "START_PHOTO": "",
+            "FSUB_PHOTO": ""
+        },
+        "admins": [
+            821215952,
+            8365451390
+        ],
+        "disable_btn": true,
+        "protect": false,
+        "credit_config": {
+            "expiry_days": 30,
+            "referral_reward": 5,
+            "payment_method": "manual",
+            "upi_id": "GPGpam",
+            "phone": "XXXXXXXXXX",
+            "packages": [
+                {
+                    "id": "pkg_10",
+                    "credits": 10,
+                    "price": 50,
+                    "currency": "INR"
+                },
+                {
+                    "id": "pkg_25",
+                    "credits": 25,
+                    "price": 100,
+                    "currency": "INR",
+                    "popular": true
+                },
+                {
+                    "id": "pkg_50",
+                    "credits": 50,
+                    "price": 180,
+                    "currency": "INR"
+                },
+                {
+                    "id": "pkg_100",
+                    "credits": 100,
+                    "price": 300,
+                    "currency": "INR"
+                }
+            ]
+        },
+        "token_config": {
+            "token_expiry_minutes": 10,
+            "max_bypass_attempts": 5,
+            "bypass_check_hours": 24
+        },
+        "auto_batch_config": {
+            "enabled": true,
+            "time_window_seconds": 30,
+            "min_files_for_batch": 2
+        }
+    }
+]
